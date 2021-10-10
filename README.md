@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-**Hi I am FadeAway aka Kaan. I am a Full Stack Developer. I work on Web Development, DataBase Management, C# Programing, Python Development. I have knowledge in many fields such as JavaScript, C#, Python, HTML, CSS, PHP.**
+**Hi I am FadeAway aka Kaan. I am a Full Stack Developer. I work on Web Development, DataBase Management, C# Programing, Python Development. I have knowledge in many fields such as C#, Python, HTML, CSS, PHP.**
 
 
 
