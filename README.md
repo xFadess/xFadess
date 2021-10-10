@@ -4,7 +4,6 @@
 
 
 
-<img src="https://img.shields.io/badge/FadeAway%234652-Discord%20Official%20Partner%20Server%20Moderator-blue" >
 
 ## Contact
 
