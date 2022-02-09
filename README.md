@@ -8,7 +8,6 @@
 ## Contact
 
 - **My Site**: https://fadeaway.tech
-- **My Discord Server**: https://discord.gg/creator
 
 
 ## Technologies I use
