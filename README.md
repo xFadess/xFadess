@@ -22,7 +22,7 @@
 
 <div align="center">
 
- <img alt= "Discord Banner" align="center" src="https://discord.c99.nl/widget/theme-3/510479430917816340.png"/>
+ <img alt= "Discord Banner" align="center" src="https://discord.c99.nl/widget/theme-3/811901859890724904.png"/>
   
 </div>
  
