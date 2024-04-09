@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-**Hi I am Feyd aka Kaan. I am a Full Stack Developer. I work on Web Development, DataBase Management, Python Development. I have knowledge in many fields such as Python, HTML, CSS, PHP.**
+**Hi I am Feyd aka Kaan. I am a Full Stack Developer. I work on Web Development, DataBase Management, Python Development. I have knowledge in many fields such as Python, HTML, CSS, PHP, JS.**
 
 
 
@@ -32,7 +32,7 @@
 ## GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xFadess&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Feyds&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFadess&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feyds&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
